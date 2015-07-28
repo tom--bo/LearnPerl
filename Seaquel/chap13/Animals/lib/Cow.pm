@@ -39,7 +39,8 @@ if you don't export anything, such as for a purely object-oriented module.
 
 =cut
 
-sub function1 {
+sub speak {
+    print "a Cow goes moooo!\n";
 }
 
 =head2 function2

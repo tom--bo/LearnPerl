@@ -1,0 +1,9 @@
+use Cow;
+use Horse;
+use Sheep;
+
+Cow::speak;
+Horse::speak;
+Sheep::speak;
+
+
